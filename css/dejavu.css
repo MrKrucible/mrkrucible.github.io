@@ -1,0 +1,77 @@
+@font-face {
+	font-family: "DejaVuSansMono";
+	src: url('DejaVuSansMono.ttf');
+}
+
+@font-face {
+	font-family: "DejaVuSans";
+	src: url('font/ttf/DejaVuSans.ttf');
+} 
+
+@font-face {
+	font-family: "DejaVuSerif";
+	src: url('font/ttf/DejaVuSerif.ttf');
+} 
+
+html {
+	background-color:#36393B;
+}
+
+body {
+	font-family: "DejaVuSansMono", "DejaVuSerif", Verdana, Arial, serif;
+	font-size: 16px;
+	letter-spacing: 0px;
+	margin-left: 5px;
+	color: #f2f2f2;
+}
+
+p {
+	font-family: "DejaVuSansMono", "DejaVuSerif", Verdana, Arial, serif;
+	color: #f2f2f2;
+	margin-left: 10px;
+}
+
+h1 {
+	margin-left:45px;
+	font-family: "DejaVuSansMono", "DejaVuSerif", Verdana, Arial, serif;
+	color: #3299BB;
+}
+
+h2 {
+	margin-left:45px;
+	font-family: "DejaVuSansMono", "DejaVuSerif", Verdana, Arial, serif;
+	color: #EEE6AB;
+}
+
+h3 {
+	margin-left:45px;
+	font-family: "DejaVuSansMono", "DejaVuSerif", Verdana, Arial, serif;
+	color: #EEE6AB;
+}
+
+h4 {
+	margin-left:45px;
+	font-family: "DejaVuSansMono", "DejaVuSerif", Verdana, Arial, serif;
+	color: #EEE6AB;
+}
+
+h5 {
+	margin-left:45px;
+	font-family: "DejaVuSansMono", "DejaVuSerif", Verdana, Arial, serif;
+	color: #EEE6AB;
+}
+
+h6 {
+	margin-left:45px;
+	font-family: "DejaVuSansMono", "DejaVuSerif", Verdana, Arial, serif;
+	color: #EEE6AB;
+}
+
+footer {
+	font-family: "DejaVuSansMono";
+	color: #EEE6AB;
+	text-align: right;
+	padding: 10px;
+	margin-right: 10px;
+	font-size: 10px;
+}
