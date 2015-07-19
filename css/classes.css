@@ -1,0 +1,60 @@
+.container {
+    margin: 0 auto 0 auto;
+    width: 100%;
+    max-width: 1280px;
+    min-width: 800px;
+    background-color:#36393B;
+}
+
+.content {
+    margin-left: 15px;
+    background-color:#36393B;
+    padding: 10px;
+}
+
+.btn {
+    padding:10px 20px 10px 20px;
+}
+
+div.btn-alt a{
+    padding:10px 20px 10px 20px;
+    color:#1851b0;
+}
+
+div.btn-alt a:hover{
+    background-color:#eee6ab;
+    padding:6px 20px 6px 20px;
+}
+
+#header-nav {
+  position: fixed;
+  z-index: 0;
+  width:100%;
+}
+
+#page {
+  padding-top: 210px;
+  z-index: -1;
+}
+
+#title {
+  color:#ff9900;
+  padding-top:100px;
+}
+
+#image {
+  float:left;
+  margin: 10px;
+}
+
+.mumble_buttons {
+  float:left;
+}
+
+.btn-p {
+  float:left;
+}
+
+.orange {
+  color:#FF9900;
+}

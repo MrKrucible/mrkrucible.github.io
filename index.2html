@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+	<title>
+		MrKrucible's Github.io
+	</title>
+	<meta charset/"utf-8">
+	<link rel="stylesheet" type="text/css" href="css/dejavu.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href/"css/main.css">
+	<link rel="shortcut icon" href="img/xd.ico">
+</head>
+<header>
+
+</header>
+<style>
+
+</style>
+<div class="title" 	style="font-family:DejaVuSansMono;">
+	mrkrucible.github.io
+</div>
+<!-- Epic Face -->
+<img src="img/epic-face.png" width="135px" align="right" style="margin-right:20px; margin-top:10px">
+<!-- Nav Bar start -->
+<ul id="nav" align="left" style="margin-left:5px; margin-top:10px">
+	<li><a href="index.html">Home</a></li>
+	<li><a href="http://steamcommunity.com/id/MrKrucible">Steam</a></li>
+	<li><a href="https://github.com/MrKrucible">Github</a></li>
+	<li><a href="http://steamcommunity.com/groups/JustSomeGamers">JustSomeGamers</a></li>
+	<li><a href="bots.html">Mumble Bots</a></li>
+	<li><a href="contact.html">Contact</a></li>
+</ul>
+<!-- Nav Bar end -->
+<!-- page content start -->
+<section style="background-color:#45484B;width:700px;">
+<body class="content">
+	<h1>
+		Hello, I R The MrKrucible!
+	</h1>
+	<p>I'm just some gamer, isn't that what we all are?</p>
+	<p>Currently I run a gaming community called JustSomeGamers,
+	 working on some Github projects, and generally trying to stay a sane and highly productive person.
+	</p>
+</body>
+</section>
+<!-- page content end -->
+<footer>
+This site is under the MIT lisence.
+</footer>
+</html>
